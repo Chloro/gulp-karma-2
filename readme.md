@@ -6,7 +6,7 @@
 
 ## Requirements
 
-* `Karma 0.1.4` or newer
+* `Karma 0.1.4` or older
 
 
 ## Note
