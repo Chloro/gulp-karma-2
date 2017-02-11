@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "gulp-karma updated to use non-depracated karma functionality",
   "main": "index.js",
+  "repository": "https://github.com/Chloro/gulp-karma-2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
