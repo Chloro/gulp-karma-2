@@ -1,6 +1,6 @@
 {
   "name": "gulp-karma-2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "gulp-karma updated to use non-depracated karma functionality",
   "main": "index.js",
   "repository": "https://github.com/Chloro/gulp-karma-2",
@@ -9,10 +9,10 @@
   },
   "author": "Cory Maloy",
   "dependencies": {
-    "event-stream": "~3.0.20",
-    "gulp-util": "~2.2.14",
-    "optimist": "~0.6.0",
-    "xtend": "~2.1.1"
+    "event-stream": "3.0.20",
+    "gulp-util": "2.2.14",
+    "optimist": "0.6.0",
+    "xtend": "2.1.1"
   },
   "license": "ISC"
 }
