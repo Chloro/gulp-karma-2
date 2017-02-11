@@ -1,7 +1,7 @@
 ** Gulp Karma 2
 ===================
 
-> An easy way to run single single specs off of a gulp watcher.
+> An easy way to run spec files from a gulp watcher.
 
 
 ## Requirements
